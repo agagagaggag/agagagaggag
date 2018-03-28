@@ -1,0 +1,104 @@
+/* Start of Global CSS */
+
+#active-navbar-item {
+    background-color:#ca199c;
+}
+
+#navbar-item:hover {
+    background-color:#ca199c;
+}
+
+#page-button {
+    background-color:#ff00bd;
+}
+
+#page-button:hover {
+    background-color:#ca199c;
+}
+
+footer {
+    margin-top:50px;
+}
+
+.page-title {
+    background:url("../img/bg.png");
+    text-align:center;
+}
+
+.page-title h1 {
+    padding-top:5%;
+    color:white;
+    padding-bottom:5%;
+}
+/* End of Global CSS */
+
+.main-title {
+    background-image:url("../img/bg.png");
+    text-align:center;
+}
+
+.main-title h1 {
+    color:white;
+    padding-top:10%;
+}
+
+.main-title h3 {
+    color:white;
+}
+
+.main-title a {
+    margin-top:10px;
+    margin-bottom:20%;
+}
+
+.why-section {
+    text-align:center;
+    padding-top:3%;
+}
+
+.why-section h3 {
+    padding-top:10px;
+    margin-left:20%;
+    margin-right:20%
+}
+
+.why-section p {
+    margin-left:20%;
+    margin-right:20%
+}
+
+.features-section {
+    text-align:center;
+    padding-top:3%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.team-section {
+    text-align:center;
+    padding-top:3%;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.support-section {
+    text-align:center;
+    margin-left:20%;
+    margin-right:20%;
+    padding-top:3%;
+}
+
+.support-section h3 {
+    padding-top:10px;
+}
+
+.guide-step {
+    padding-top:3%;
+    text-align:center;
+    margin-left:20%;
+    margin-right:20%
+}
+
+.guide-step h3 {
+    padding-top:10px;
+}
